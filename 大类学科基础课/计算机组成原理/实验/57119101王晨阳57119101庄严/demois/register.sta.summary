@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'PCin'
+Slack : -6.247
+TNS   : -43.290
+
+Type  : Slow 1200mV 85C Model Setup 'Clk'
+Slack : -5.598
+TNS   : -357.567
+
+Type  : Slow 1200mV 85C Model Hold 'Clk'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'PCin'
+Slack : 1.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Clk'
+Slack : -0.032
+TNS   : -0.256
+
+Type  : Slow 1200mV 85C Model Removal 'Clk'
+Slack : -0.057
+TNS   : -0.456
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -99.696
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PCin'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'PCin'
+Slack : -5.589
+TNS   : -38.878
+
+Type  : Slow 1200mV 0C Model Setup 'Clk'
+Slack : -5.100
+TNS   : -319.916
+
+Type  : Slow 1200mV 0C Model Hold 'Clk'
+Slack : 0.411
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'PCin'
+Slack : 1.587
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Clk'
+Slack : -0.044
+TNS   : -0.352
+
+Type  : Slow 1200mV 0C Model Removal 'Clk'
+Slack : -0.045
+TNS   : -0.360
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -99.696
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PCin'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'Clk'
+Slack : -3.257
+TNS   : -204.432
+
+Type  : Fast 1200mV 0C Model Setup 'PCin'
+Slack : -3.118
+TNS   : -20.846
+
+Type  : Fast 1200mV 0C Model Hold 'Clk'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'PCin'
+Slack : 0.802
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Clk'
+Slack : -0.049
+TNS   : -0.392
+
+Type  : Fast 1200mV 0C Model Removal 'Clk'
+Slack : -0.076
+TNS   : -0.608
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -101.728
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PCin'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------
